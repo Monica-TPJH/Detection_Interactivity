@@ -1,0 +1,9 @@
+peewee
+langchain_openai
+langgraph
+langchain
+langchain-qdrant
+pymupdf4llm
+langchain_community
+gensim
+streamlit
